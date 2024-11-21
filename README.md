@@ -1,7 +1,7 @@
 <h1>About Me:</h1>
 
-🌍 I'm based in the United States
-🖥️ See my portfolio at https://adamconkle.com
+🌍 I'm based in the United States<br>
+🖥️ See my portfolio at https://adamconkle.com<br>
 ✉️ You can contact me at https://adamconkle.com
 
 <h1>🌐 Socials:</h1>
@@ -23,3 +23,5 @@ HTML5 CSS JavaScript WordPress Webflow Canva GitHub
 <h1>💰 You can support me by Donating</h1>
 
 BuyMeACoffee https://buymeacoffee.com/adamcdesigns
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="adamcdesigns" data-color="#FFDD00" data-emoji="☕"  data-font="Inter" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
