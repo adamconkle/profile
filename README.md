@@ -2,22 +2,23 @@
 
 🌍 I'm based in the United States
 🖥️ See my portfolio at https://adamconkle.com
-✉️ You can contact me at connect@shefali.dev
+✉️ You can contact me at https://adamconkle.com
 
 <h1>🌐 Socials:</h1>
-X
+X https://x.com/AdamCDesigns
 
-💻 Tech Stack:
+<h1> 💻 Tech Stack:</h1>
 
 HTML5 CSS JavaScript WordPress Webflow Canva GitHub
-📊 GitHub Stats:
+
+
+<h1>📊 GitHub Stats:</h1>
 
 
 
-🏆 GitHub Trophies
+<h1>🏆 GitHub Trophies</h1>
 
-🔝 Top Contributed Repo
 
-💰 You can support me by Donating
+<h1>💰 You can support me by Donating</h1>
 
-BuyMeACoffee PayPal
+BuyMeACoffee https://buymeacoffee.com/adamcdesigns
